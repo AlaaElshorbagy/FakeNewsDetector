@@ -1,7 +1,7 @@
 # Sarcasm / Fake News Detector
 
 ## Objective: 
-Build an AI-powered system to be able to detect Sarcasm or Fake News from text content, to be more specific news headlines. This will be a binary classification problem leveraging NLP & Deep Learning for NLP.
+Build an AI-powered system to be able to detect Sarcasm or Fake News from text content, to be more specific news headlines. This will be a binary classification problem leveraging NLP & Deep Learning for NLP, Transfer Learning.
 
 ## The dataset
 
